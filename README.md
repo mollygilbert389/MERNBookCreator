@@ -1,6 +1,6 @@
 # Book Creator
 
-This app was created with react and uses MongoDB to store books that the user adds using a bootstrap form. 
+This app was created with React and uses MongoDB to store books that the user adds using a bootstrap form. 
 
 Try it yourself here: https://mollywoodbooksearch.herokuapp.com/
 
